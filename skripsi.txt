@@ -4,3 +4,6 @@ Judul: Analisa dampak pandemi terhadap ekologi Jakarta
 
 Abstrak:
 Melihat situasi jakarta saat ini yang lebih lowong dari biasanya, kami berniat menganalisa dampak pandemi terhadap ekologi
+
+Metode Penelitian:
+Disini kami menggunakan metode penelitian menggunakan air hujan yang ditest tingkat keasamannya. Penelitian dilakukan selama sebulan.
